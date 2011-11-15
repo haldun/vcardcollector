@@ -1,0 +1,13 @@
+VCardCollector
+==============
+
+- Users send their photo of their business cards.
+- For each business card, we create a task for its reading.
+- User checks and sees his business cards.
+- We can notify user when a business card is imported.
+- User can export the finished business cards.
+- OCR can be used
+- Manual upload can be used
+- Email can be used
+- An iphone app can automatically sends photo of a card
+
